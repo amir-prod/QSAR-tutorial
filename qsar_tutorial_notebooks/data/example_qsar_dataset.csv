@@ -1,0 +1,42 @@
+CompoundID,Name,SMILES,Activity,Class
+Cmpd001,Methane,C,0.709,0
+Cmpd002,Ethane,CC,0.931,0
+Cmpd003,Propane,CCC,1.717,0
+Cmpd004,Butane,CCCC,2.215,1
+Cmpd005,Pentane,CCCCC,2.159,1
+Cmpd006,Hexane,CCCCCC,2.74,1
+Cmpd007,Ethanol,CCO,0.65,0
+Cmpd008,Propanol,CCCO,1.034,0
+Cmpd009,Isopropanol,CC(C)O,1.087,0
+Cmpd010,Acetic acid,CC(=O)O,0.539,0
+Cmpd011,Propionic acid,CCC(=O)O,1.315,0
+Cmpd012,Acetone,CC(=O)C,1.193,0
+Cmpd013,Acetaldehyde,CC=O,0.601,0
+Cmpd014,Methylamine,CN,0.26,0
+Cmpd015,Ethylamine,CCN,0.605,0
+Cmpd016,Aniline,Nc1ccccc1,1.935,0
+Cmpd017,Phenol,c1ccccc1O,2.32,1
+Cmpd018,Benzene,c1ccccc1,2.095,1
+Cmpd019,Toluene,Cc1ccccc1,2.837,1
+Cmpd020,Ethylbenzene,CCc1ccccc1,3.045,1
+Cmpd021,Cyclohexane,C1CCCCC1,2.751,1
+Cmpd022,Cyclopentane,C1CCCC1,2.197,1
+Cmpd023,Pyridine,n1ccccc1,1.955,0
+Cmpd024,Pyrimidine,n1ccncc1,1.174,0
+Cmpd025,Benzoic acid,O=C(O)c1ccccc1,2.387,1
+Cmpd026,Salicylic acid,O=C(O)c1ccccc1O,2.387,1
+Cmpd027,Aspirin,CC(=O)Oc1ccccc1C(=O)O,3.067,1
+Cmpd028,Ibuprofen,CC(C)Cc1ccc(cc1)C(C)C(=O)O,4.89,1
+Cmpd029,Caffeine,Cn1cnc2c1c(=O)n(C)c(=O)n2C,1.576,0
+Cmpd030,Nicotine,CN1CCC[C@H]1c2cccnc2,3.519,1
+Cmpd031,Acetaminophen,CC(=O)Nc1ccc(O)cc1,3.299,1
+Cmpd032,Naphthalene,c1ccc2ccccc2c1,3.695,1
+Cmpd033,Anthracene,c1ccc2cc3ccccc3cc2c1,5.177,1
+Cmpd034,Chloroform,ClC(Cl)Cl,2.935,1
+Cmpd035,Dichloromethane,ClCCl,2.309,1
+Cmpd036,Carbon tetrachloride,ClC(Cl)(Cl)Cl,4.17,1
+Cmpd037,Formaldehyde,C=O,0.105,0
+Cmpd038,Urea,NC(=O)N,-0.354,0
+Cmpd039,Glycine,NCC(=O)O,-0.053,0
+Cmpd040,Alanine,CC(N)C(=O)O,0.676,0
+Cmpd041,Invalid example,C1CC,,
